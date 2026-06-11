@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![](https://64.media.tumblr.com/d86fe2f965a030bdf39b63205832d885/54e0ab735b7d5429-fd/s250x400/f4862ecc69076c56a96b39175b9df6a852c403c1.gifv)
+<img width="122" height="90" alt="image" src="https://github.com/user-attachments/assets/f6149aec-a177-4bda-a533-196c169a74d0" />
 
 
 </p>
